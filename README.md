@@ -49,7 +49,8 @@ My repo contains the main code jupyter notebook file and three folders. The firs
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository]
-[Slides]
+[Repository](https://github.com/albertoranz/Project4-Youtube)
+
 [Trello](https://trello.com/b/66UwLNBt/project-4-youtube-trends)
+
 [Dataset](https://www.kaggle.com/datasnaek/youtube-new)
