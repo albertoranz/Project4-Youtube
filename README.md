@@ -47,7 +47,6 @@ My repo contains the main code jupyter notebook file and three folders. The firs
 
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/albertoranz/Project4-Youtube)
 
